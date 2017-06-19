@@ -1,0 +1,19 @@
+{
+  "name": "simpleserver",
+  "version": "1.0.0",
+  "description": "A basic HTTP server in Node.js",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mikemolenda/simpleserver.git"
+  },
+  "author": "Mike Molenda",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mikemolenda/simpleserver/issues"
+  },
+  "homepage": "https://github.com/mikemolenda/simpleserver#readme"
+}
